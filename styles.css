@@ -1,0 +1,27 @@
+*{
+    padding-top: 10px;
+    padding-left: 5px;
+}
+#email{
+    width: 500px;
+    border-radius: 7px;
+    border-color: black;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+}
+#pwd{
+    width: 500px;
+    border-radius: 7px;
+    border-color: black;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+#btn{
+    width: 200px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    border-color: black;
+    margin-top: 15px;
+    border-radius: 7px;
+}
